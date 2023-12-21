@@ -490,3 +490,4 @@ export const IBKRAdapter: BrokerAdapter;
 export const Trading212Adapter: BrokerAdapter;
 export const DEGIROAdapter: BrokerAdapter;
 export const BoursoramaAdapter: BrokerAdapter;
+export const FidelityAdapter: BrokerAdapter;

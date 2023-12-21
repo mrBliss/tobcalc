@@ -2,6 +2,7 @@ import { IBKRAdapter } from "./src/adapters/IBKR_adapter.ts";
 import { DEGIROAdapter } from "./src/adapters/DEGIRO_adapter.ts";
 import { Trading212Adapter } from "./src/adapters/Trading212_adapter.ts";
 import { BoursoramaAdapter } from "./src/adapters/Boursorama_adapter.ts";
+import { FidelityAdapter } from "./src/adapters/Fidelity_adapter.ts";
 import { InformativeError } from "./src/InformativeError.ts";
 import {
     setECBHostname,
@@ -24,6 +25,7 @@ export {
     Trading212Adapter,
     DEGIROAdapter,
     BoursoramaAdapter,
+    FidelityAdapter,
     InformativeError,
     exchangeRatesMap,
     SecurityType,

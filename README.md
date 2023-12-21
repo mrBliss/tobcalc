@@ -21,6 +21,7 @@ tobcalc is a project that calculates the Belgian transaction tax on securities f
 - [Interactive Brokers](docs/brokers/interactive-brokers-guide.md)
 - [DEGIRO](docs/brokers/degiro-guide.md)
 - [Boursorama](docs/brokers/boursorama-guide.md)
+- [Fidelity](docs/brokers/fidelity-guide.md)
 
 #### Development
 
@@ -41,6 +42,7 @@ Currently, the following brokers are supported:
 - Trading212 (last checked: 29 March 2022) (no guide yet)
 - DEGIRO (last checked: 2 April 2023) [(guide)](docs/brokers/degiro-guide.md)
 - Boursorama (last checked: 3 April 2023) [(guide)](docs/brokers/boursorama-guide.md)
+- Fidelity (last checked: 21 December 2023) [(guide)](docs/brokers/fidelity-guide.md)
 
 ## How does it work?
 
